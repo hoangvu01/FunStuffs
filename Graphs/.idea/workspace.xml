@@ -2,7 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="8524bf54-1601-4d3a-81ac-6ab5a9510323" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/dfs/TopologicalSort/TopologicalSortDFS.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/dfs/TwoColouring/TwoColours.java" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -12,8 +14,8 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="Class" />
         <option value="Enum" />
+        <option value="Class" />
       </list>
     </option>
   </component>
@@ -30,7 +32,20 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
   </component>
-  <component name="RunManager">
+  <component name="RunManager" selected="Application.TopologicalSortDFS">
+    <configuration name="TopologicalSortDFS" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="dfs.TopologicalSort.TopologicalSortDFS" />
+      <module name="Graphs" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="dfs.TopologicalSort.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="TwoColouring" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="dfs.TwoColouring.TwoColouring" />
       <module name="Graphs" />
@@ -46,6 +61,7 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.TopologicalSortDFS" />
         <item itemvalue="Application.TwoColouring" />
       </list>
     </recent_temporary>
@@ -64,22 +80,22 @@
     <servers />
   </component>
   <component name="WindowStateProjectService">
-    <state width="1872" height="275" key="GridCell.Tab.0.bottom" timestamp="1580682972004">
+    <state width="912" height="275" key="GridCell.Tab.0.bottom" timestamp="1580685372115">
       <screen x="0" y="27" width="1920" height="1053" />
     </state>
-    <state width="1872" height="275" key="GridCell.Tab.0.bottom/0.27.1920.1053@0.27.1920.1053" timestamp="1580682972004" />
-    <state width="1872" height="275" key="GridCell.Tab.0.center" timestamp="1580682972004">
+    <state width="912" height="275" key="GridCell.Tab.0.bottom/0.27.1920.1053@0.27.1920.1053" timestamp="1580685372115" />
+    <state width="912" height="275" key="GridCell.Tab.0.center" timestamp="1580685372115">
       <screen x="0" y="27" width="1920" height="1053" />
     </state>
-    <state width="1872" height="275" key="GridCell.Tab.0.center/0.27.1920.1053@0.27.1920.1053" timestamp="1580682972004" />
-    <state width="1872" height="275" key="GridCell.Tab.0.left" timestamp="1580682972004">
+    <state width="912" height="275" key="GridCell.Tab.0.center/0.27.1920.1053@0.27.1920.1053" timestamp="1580685372115" />
+    <state width="912" height="275" key="GridCell.Tab.0.left" timestamp="1580685372115">
       <screen x="0" y="27" width="1920" height="1053" />
     </state>
-    <state width="1872" height="275" key="GridCell.Tab.0.left/0.27.1920.1053@0.27.1920.1053" timestamp="1580682972004" />
-    <state width="1872" height="275" key="GridCell.Tab.0.right" timestamp="1580682972004">
+    <state width="912" height="275" key="GridCell.Tab.0.left/0.27.1920.1053@0.27.1920.1053" timestamp="1580685372115" />
+    <state width="912" height="275" key="GridCell.Tab.0.right" timestamp="1580685372115">
       <screen x="0" y="27" width="1920" height="1053" />
     </state>
-    <state width="1872" height="275" key="GridCell.Tab.0.right/0.27.1920.1053@0.27.1920.1053" timestamp="1580682972004" />
+    <state width="912" height="275" key="GridCell.Tab.0.right/0.27.1920.1053@0.27.1920.1053" timestamp="1580685372115" />
     <state x="508" y="237" width="904" height="632" key="find.popup" timestamp="1580663904363">
       <screen x="0" y="27" width="1920" height="1053" />
     </state>
