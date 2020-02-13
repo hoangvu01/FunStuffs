@@ -1,4 +1,4 @@
-package dfs.TopologicalSort;
+package dfs.topologicalSort;
 
 import java.util.ArrayList;
 import java.util.Collections;

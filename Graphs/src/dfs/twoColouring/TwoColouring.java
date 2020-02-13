@@ -1,4 +1,4 @@
-package dfs.TwoColouring;
+package dfs.twoColouring;
 
 public class TwoColouring {
 
